@@ -1,0 +1,7 @@
+﻿  laboratory_work_№3.cpp
+D:\Users\maks2\Desktop\Programming\C++\mgutum\laboratory_work_№3\laboratory_work_№3\laboratory_work_№3.cpp(12,30): warning C4305: +=: усечение из "double" в "float"
+D:\Users\maks2\Desktop\Programming\C++\mgutum\laboratory_work_№3\laboratory_work_№3\laboratory_work_№3.cpp(16,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Users\maks2\Desktop\Programming\C++\mgutum\laboratory_work_№3\laboratory_work_№3\laboratory_work_№3.cpp(21,3): warning C4305: =: усечение из "double" в "float"
+D:\Users\maks2\Desktop\Programming\C++\mgutum\laboratory_work_№3\laboratory_work_№3\laboratory_work_№3.cpp(21,34): warning C4305: +=: усечение из "double" в "float"
+D:\Users\maks2\Desktop\Programming\C++\mgutum\laboratory_work_№3\laboratory_work_№3\laboratory_work_№3.cpp(23,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  laboratory_work_№3.vcxproj -> D:\Users\maks2\Desktop\Programming\C++\mgutum\laboratory_work_№3\x64\Debug\laboratory_work_№3.exe
